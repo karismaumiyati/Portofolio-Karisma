@@ -9,8 +9,8 @@ export const Hero: React.FC = () => {
 
 const Developer = {
   name: "Karisma Umiyati",
-  role: "Creative Developer",
-  skills: ["Web", "UI/UX", "Content"],
+  role: "Anak magang pemula",
+  skills: ["Web", "UI/UX", "Seru-seruan"],
   status: "Ready to Create"
 };
 
